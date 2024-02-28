@@ -71,3 +71,11 @@ body {
 .form-check{
     margin-left: 10px !important;
 }
+/* -------footer--------- */
+.text-body{
+  color: white !important;
+}
+.text-center p{
+  text-transform: uppercase;
+  color: orangered;
+}
